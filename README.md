@@ -38,11 +38,6 @@ I'm a Full Stack Web Developer who thrives on building fast, scalable, and user-
 
 ## 🛠️ Notable Projects
 
-### 📘 [DevLog](https://github.com/ahmedshaheenreal/devlog)
-A modern blogging platform for developers — built with TypeScript, Express, and MySQL.  
-Includes **role-based access**, **collaborative publishing**, **analytics**, and **robust testing** with Jest.  
-> Designed to mimic a real-world SaaS backend, complete with validation, error handling, and clean architecture.
-
 ### 🛒 Freelance E-Commerce Platform
 Worked as a backend developer to deliver a custom e-commerce experience.  
 Built **handpicked collections**, implemented **auth flows**, and improved performance using **Sequelize hooks**.
